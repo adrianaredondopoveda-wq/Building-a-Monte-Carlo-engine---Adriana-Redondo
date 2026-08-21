@@ -1,0 +1,12 @@
+{
+  "assets": ["Global Equity ETF", "Treasury ETF", "Gold ETF"],
+  "prices": [100.0, 80.0, 190.0],
+  "positions": [600.0, 400.0, 100.0],
+  "annualized_return": [0.08, 0.035, 0.045],
+  "annualized_volatility": [0.18, 0.07, 0.16],
+  "correlation": [
+    [1.0, -0.20, 0.10],
+    [-0.20, 1.0, 0.05],
+    [0.10, 0.05, 1.0]
+  ]
+}
